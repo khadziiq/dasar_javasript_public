@@ -1,0 +1,22 @@
+[
+   {
+      "id": 1,
+      "task": "Belajar javascript",
+      "type": "In progress"
+   },
+   {
+      "id": 2,
+      "task": "Review Opp",
+      "type": "In progress"
+   },
+   {
+      "id": 3,
+      "task": "Explore javascript",
+      "type": "Done"
+   },
+   {
+      "id": 4,
+      "task": "fast",
+      "type": "forius"
+   }
+]
